@@ -1,4 +1,10 @@
-## Hi there 👋
+## Current
+
+Hi, I'm Zichuan Huang, a graduate from School of Information Science and Technology, North China University of Technology. I'm working as an intern student at Wangxuan Institute of Computer Technology, Peking University, guided by Prof. Jiaying Liu. Currently, my research interest lies in Computer Vision, especially image/video restoration and enhancement.
+
+## Contact Me
+Email: huangzichuan@hotmail.com
+
 
 <!--
 **HuangZichuan/huangzichuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
