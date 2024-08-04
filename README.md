@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm Zichuan Huang, a graduate from School of Information Science and Technology, North China University of Technology. I'm working as an intern student at [Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)](http://39.96.165.147/struct.html), [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn), Peking University, guided by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
+Hi, I'm Zichuan Huang, a graduate from School of Information Science and Technology, North China University of Technology. I'm working as an intern student at [Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)](http://39.96.165.147/struct.html), [Wangxuan Institute of Computer Technology (WICT)](https://www.icst.pku.edu.cn), Peking University, guided by [Prof. Jiaying Liu](http://39.96.165.147/people/liujiaying.html). 
 
 Currently, my research interest has been in Computer Vision, especially image/video restoration and enhancement, but I'm also willing to explore more areas of Artificial Intelligence in the future.
 
